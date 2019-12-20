@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'ad5f5248-22ec-4a67-a569-f340201ad241'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'zixerapp'
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
