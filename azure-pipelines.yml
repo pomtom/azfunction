@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'b8d470fe-2e2e-4a7d-a034-6d5680f742ce'
+  azureSubscription: 'd1b68267-a346-4036-a81a-1e4de8eb2752'
 
   # Function app name
   functionAppName: 'zixer'
