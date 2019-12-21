@@ -11,6 +11,7 @@ namespace AzFunction
         {
             log.Info($"C# Blob trigger function Processed blob\n Name:{name} \n Size: {myBlob.Length} Bytes");
             log.Info($"Pramod Lawate");
+            log.Info($"Pramod Lawate test1");
         }
     }
 }
